@@ -308,11 +308,31 @@ class: text-center
 ---
 layout: intro
 ---
+# About JavaScript
+by kobatch
+
+---
+layout: intro
+---
 # How to write JavaScript
 by kobatch
 
 ---
-layout: image-right
+layout: intro-image-right
+image: https://source.unsplash.com/collection/94734566/1920x1080
+---
+
+# このセクションの講義
+
+ここでは、JavaScriptの基本的な命令について学びます。
+
+* ## 基本構文
+* ## 変数
+* ## 配列と連想配列
+* ## オフジェクト
+
+---
+layout: bullets
 image: https://source.unsplash.com/collection/94734566/1920x1080
 ---
 
